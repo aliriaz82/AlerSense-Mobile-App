@@ -1,2 +1,2 @@
 # AlerSense-Mobile-App
-AI based food allergy detection application.
+This repository contains the source code for my Final Year Project.
